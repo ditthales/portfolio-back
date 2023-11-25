@@ -79,6 +79,10 @@ export class AppService {
             name: "Website",
             url: ""
           },
+          {
+            name: "Live Demo",
+            url: ""
+          },
         ],
         tags: ["Swift", "SwiftUI", "AVFoundations", "WWDC Winner", "PencilKit", "Solo Project"]
       },
@@ -97,6 +101,10 @@ export class AppService {
             name: "GitHub",
             url: ""
           },
+          {
+            name: "Live Demo",
+            url: ""
+          },
         ],
         tags: ["Swift", "UIKit", "ViewCode/Programmatic UI", "AVFoundations", "UserDefaults", "FaceID", "App Store"]
       },
@@ -109,6 +117,10 @@ export class AppService {
         urls: [
           {
             name: "GitHub",
+            url: ""
+          },
+          {
+            name: "Live Demo",
             url: ""
           },
         ],
@@ -129,6 +141,10 @@ export class AppService {
             name: "GitHub",
             url: ""
           },
+          {
+            name: "Live Demo",
+            url: ""
+          },
         ],
         tags: ["Swift", "UIKit", "ViewCode/Programmatic UI", "UserDefaults", "App Store", "Unit Tests"]
       },
@@ -141,6 +157,10 @@ export class AppService {
         urls: [
           {
             name: "GitHub",
+            url: ""
+          },
+          {
+            name: "Live Demo",
             url: ""
           },
         ],
@@ -205,7 +225,13 @@ export class AppService {
       "opcao1": "Mais sobre o processo",
       "opcao2": "Conheça mais de mim",
       "opcao3": "Conheça o app",
-      "opcao4": "Baixar CV completo"
+      "opcao4": "Baixar CV completo",
+      "witchie_description": "Witchie é um jogo puzzle em que você precisa ajudar uma bruxinha ranzinza a se livras das marcas mágicas que misteriosamente apareceram em seu castelo. Será que você é capaz?",
+      "paper_description": "Premiado na WWDC 2023 Swift Student Challenge, In a Sheet of Paper é uma experiência onde você se encontra em um lugar completamente escuro e é convidado por Vin, uma voz misteriosa, a imaginar e desenhar o cenário. Com uma narrativa cheia de emoção e uma trilha sonora envolvente, você é levado a uma jornada de autoconhecimento e reflexão.",
+      "receitinha_description": "c",
+      "naturia_description": "d",
+      "bompracachorro_description": "e",
+      "gera_description": "f"
   }
   }
 
@@ -265,9 +291,13 @@ export class AppService {
       "opcao1": "More About the Process",
       "opcao2": "Learn More About Me",
       "opcao3": "Explore the App",
-      "opcao4": "Download Full CV"
-  
-  
+      "opcao4": "Download Full CV",
+      "witchie_description": "a",
+      "paper_description": "b",
+      "receitinha_description": "c",
+      "naturia_description": "d",
+      "bompracachorro_description": "e",
+      "gera_description": "f"
   }
   }
 
@@ -327,9 +357,13 @@ export class AppService {
       "opcao1": "Más sobre el proceso",
       "opcao2": "Conozca más sobre mí",
       "opcao3": "Conozca la aplicación",
-      "opcao4": "Descargar CV completo"
-  
-  
+      "opcao4": "Descargar CV completo",
+      "witchie_description": "a",
+      "paper_description": "b",
+      "receitinha_description": "c",
+      "naturia_description": "d",
+      "bompracachorro_description": "e",
+      "gera_description": "f"
   }
   }
 
@@ -389,9 +423,13 @@ export class AppService {
       "opcao1": "Plus d'informations sur le processus",
       "opcao2": "Apprenez-en davantage sur moi",
       "opcao3": "Découvrez l'application",
-      "opcao4": "Télécharger le CV complet"
-  
-  
+      "opcao4": "Télécharger le CV complet",
+      "witchie_description": "a",
+      "paper_description": "b",
+      "receitinha_description": "c",
+      "naturia_description": "d",
+      "bompracachorro_description": "e",
+      "gera_description": "f"
   }
   }
 

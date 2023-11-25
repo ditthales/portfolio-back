@@ -24,8 +24,11 @@ export interface LanguageJSON {
     placeholder_nome: string;
     placeholder_email: string;
     placeholder_mensagem: string;
+
+    //testimonials
     feedback_gui: string;
     feedback_migge: string;
+    
     que_pensam: string;
     aqui: string;
     lista1: string;
@@ -54,5 +57,13 @@ export interface LanguageJSON {
     opcao2: string;
     opcao3: string;
     opcao4: string;
+
+    //descrições de projetos
+    witchie_description: string;
+    paper_description: string;
+    receitinha_description: string;
+    naturia_description: string;
+    bompracachorro_description: string;
+    gera_description: string;
 }
   
