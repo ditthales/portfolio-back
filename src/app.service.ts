@@ -193,8 +193,8 @@ export class AppService {
       "enviar": "Enviar",
       "enviado": "Mensagem enviada!",
       "nao_enviado": "Não foi possível enviar, tente novamente!",
-      "placeholder_nome": "Meu Nome",
-      "placeholder_email": "meuemail@exemplo.com",
+      "placeholder_nome": "Seu Nome",
+      "placeholder_email": "seuemail@exemplo.com",
       "placeholder_mensagem": "Sua mensagem aqui...",
       "feedback_gui": "”Tive a oportunidade de trabalhar com Thales em um projeto sobre testes automatizados em swift, onde fizemos um aplicativo do zero praticando a metodologia TDD em todos os passos. Nele, Thales se mostrou um companheiro de equipe dedicado, curioso e proativo, colaborando com todas as etapas do projeto e permanecendo interessado durante todo o processo. Além disso, Thales contribuiu de forma exemplar no desenvolvimento do nosso produto final, mostrando que detém o conhecimento prático de código, e produziu em conjunto conosco um pitch educativo de excelente qualidade. Para além das barreiras desse projeto, consigo ver no nosso ambiente de estágio que Thales é apreciado e muito bem quisto, e é reconhecido pelo seu trabalho árduo, pelas suas habilidades técnicas em desenvolvimento e design, pela sua criatividade e contribuição em processos de inovação de produto, e pela sua disposição em ajudar os outros. Por fim, deixo aqui minha admiração por Thales, como pessoa e como profissional, e acredito que ele terá muito sucesso na vida profissional.”",
       "feedback_migge": "”Tive a oportunidade de trabalhar em diversos projetos com Thales e em todos eles sempre foram de muito aprendizado. Acredito que a melhor forma de descrever a sua atuação seria com a palavra ”Dedicado”. Thales sempre se mostrava proativo, interessado, observativo e prestativo no desenvolvimentos dos projetos, sabendo se comunicar e expressar a sua opinião de forma assertiva. Além de ser muito esforçado, Thales possui uma excelente competência para compreender sistemas e propor soluções criativas para problemas complexos, além de muito persistente e resiliente, o tornando um desenvolvedor de código diferenciado.”",
@@ -259,8 +259,8 @@ export class AppService {
       "enviar": "Send",
       "enviado": "Message sent!",
       "nao_enviado": "Sorry! Message not sent. Try Again!",
-      "placeholder_nome": "My Name",
-      "placeholder_email": "myemail@example.com",
+      "placeholder_nome": "Your Name",
+      "placeholder_email": "youremail@example.com",
       "placeholder_mensagem": "Your message here...",
       "feedback_gui": "”I had the opportunity to work with Thales on a project involving automated testing in Swift, where we built an application from scratch, practicing the TDD methodology at every step. Throughout, Thales proved to be a dedicated, curious, and proactive team member, collaborating in all project phases and remaining engaged throughout the process. Additionally, Thales made exemplary contributions to the development of our final product, demonstrating practical coding knowledge, and together, we produced an excellent quality educational pitch. Beyond the confines of this project, I can see in our internship environment that Thales is well-respected and highly regarded, recognized for his hard work, technical skills in development and design, creativity, and contribution to product innovation processes, as well as his willingness to assist others. Finally, I express my admiration for Thales, both as a person and a professional, and I believe he will have great success in his professional life.”",
       "feedback_migge": "”I had the opportunity to work on several projects with Thales, and in all of them, there was always a great deal of learning involved. I believe the best way to describe his performance would be with the word 'Dedicated.' Thales always displayed a proactive, interested, observant, and helpful attitude in project development, knowing how to communicate and express his opinion assertively. In addition to being very hardworking, Thales possesses excellent competence in understanding systems and proposing creative solutions to complex problems. He is also highly persistent and resilient, making him a standout code developer.”",
@@ -325,8 +325,8 @@ export class AppService {
       "enviar": "Enviar",
       "enviado": "¡Mensaje enviado con éxito!",
       "nao_enviado": "¡No se pudo enviar el mensaje! Inténtalo de nuevo.",
-      "placeholder_nome": "Mi Nombre",
-      "placeholder_email": "miemail@ejemplo.com",
+      "placeholder_nome": "Tu Nombre",
+      "placeholder_email": "tuemail@ejemplo.com",
       "placeholder_mensagem": "Tu mensaje aquí",
       "feedback_gui": "”Tuve la oportunidad de trabajar con Thales en un proyecto relacionado con pruebas automatizadas en Swift, donde construimos una aplicación desde cero, practicando la metodología TDD en cada paso. A lo largo de todo el proyecto, Thales demostró ser un miembro del equipo dedicado, curioso y proactivo, colaborando en todas las fases del proyecto y manteniéndose comprometido durante todo el proceso. Además, Thales realizó contribuciones ejemplares en el desarrollo de nuestro producto final, demostrando un conocimiento práctico de la programación, y juntos produjimos un excelente pitch educativo de alta calidad. Más allá de los límites de este proyecto, puedo ver en nuestro entorno de pasantía que Thales es altamente respetado y apreciado, reconocido por su arduo trabajo, habilidades técnicas en desarrollo y diseño, creatividad, contribución a los procesos de innovación del producto y su disposición para ayudar a los demás. Finalmente, expreso mi admiración por Thales, tanto como persona como profesional, y creo que tendrá un gran éxito en su carrera profesional.”",
       "feedback_migge": "”Tuve la oportunidad de trabajar en varios proyectos con Thales, y en todos ellos siempre hubo mucho aprendizaje. Creo que la mejor forma de describir su desempeño sería con la palabra 'Dedicado'. Thales siempre mostraba una actitud proactiva, interesada, observadora y servicial en el desarrollo de proyectos, sabiendo cómo comunicarse y expresar su opinión de manera asertiva. Además de ser muy trabajador, Thales posee una excelente competencia para comprender sistemas y proponer soluciones creativas a problemas complejos. También es altamente persistente y resiliente, lo que lo convierte en un desarrollador de código destacado.”",
@@ -392,7 +392,7 @@ export class AppService {
       "enviado": "Message envoyé avec succès!",
       "nao_enviado": "Échec de l'envoi du message! Veuillez réessayer.",
       "placeholder_nome": "Prénom et Nom",
-      "placeholder_email": "monemail@exemple.com",
+      "placeholder_email": "votreemail@exemple.com",
       "placeholder_mensagem": "Votre message ici...",
       "feedback_gui": "”J'ai eu l'opportunité de travailler avec Thales sur un projet impliquant des tests automatisés en Swift, où nous avons construit une application à partir de zéro, en pratiquant la méthodologie TDD à chaque étape. Tout au long du projet, Thales s'est révélé être un membre dévoué, curieux et proactif de l'équipe, collaborant à toutes les phases du projet et restant engagé tout au long du processus. De plus, Thales a apporté d'exemplaires contributions au développement de notre produit final, démontrant une connaissance pratique de la programmation, et ensemble, nous avons produit un pitch éducatif d'excellente qualité. Au-delà des limites de ce projet, je peux constater dans notre environnement de stage que Thales est très respecté et hautement estimé, reconnu pour son travail acharné, ses compétences techniques en développement et en conception, sa créativité, sa contribution aux processus d'innovation produit, ainsi que sa volonté d'aider les autres. Enfin, j'exprime mon admiration pour Thales, en tant que personne et en tant que professionnel, et je crois qu'il connaîtra un grand succès dans sa carrière professionnelle.”",
       "feedback_migge": "”J'ai eu l'opportunité de travailler sur plusieurs projets avec Thales, et dans tous ces projets, il y avait toujours beaucoup d'apprentissage. Je pense que la meilleure façon de décrire sa performance serait avec le mot 'Dévoué.' Thales a toujours fait preuve d'une attitude proactive, intéressée, observatrice et serviable dans le développement des projets, sachant comment communiquer et exprimer son opinion de manière assertive. En plus d'être très travailleur, Thales possède une excellente compétence pour comprendre les systèmes et proposer des solutions créatives à des problèmes complexes. Il est également très persévérant et résilient, ce qui en fait un développeur de code exceptionnel.”",
@@ -438,12 +438,12 @@ export class AppService {
       {
         name: "Guilherme Souza",
         text: "feedback_gui",
-        imageUrl: "https://i.imgur.com/4P1X3x0.png"
+        imageUrl: "https://i.imgur.com/7LEaZjs.png"
       },
       {
         name: "Lucas Migge",
         text: "feedback_migge",
-        imageUrl: "https://i.imgur.com/4P1X3x0.png"
+        imageUrl: "https://i.imgur.com/EuDLlc7.png"
       },
     ]
   }
