@@ -31,7 +31,7 @@ export class AppService {
         name: "Witchie",
         description: "witchie_description",
         relevance: 1,
-        imageUrl: "https://i.imgur.com/L1Sk4EC.png",
+        imageUrl: "https://i.imgur.com/TbpJ0ue.png",
         urls: [
           {
             name: "App Store",
@@ -65,23 +65,23 @@ export class AppService {
         name: "In A Sheet of Paper",
         description: "paper_description",
         relevance: 1,
-        imageUrl: "https://i.imgur.com/L1Sk4EC.png",
+        imageUrl: "https://i.imgur.com/bCnkpGl.png",
         urls: [
           {
             name: "GitHub",
-            url: ""
+            url: "#"
           },
           {
             name: "Medium",
-            url: ""
+            url: "#"
           },
           {
             name: "Website",
-            url: ""
+            url: "#"
           },
           {
             name: "Live Demo",
-            url: ""
+            url: "#"
           },
         ],
         tags: ["Swift", "SwiftUI", "AVFoundations", "WWDC Winner", "PencilKit", "Solo Project"]
@@ -91,7 +91,7 @@ export class AppService {
         name: "Receitinha",
         description: "receitinha_description",
         relevance: 1,
-        imageUrl: "https://i.imgur.com/L1Sk4EC.png",
+        imageUrl: "https://i.imgur.com/9qGOUMI.png",
         urls: [
           {
             name: "App Store",
@@ -99,11 +99,11 @@ export class AppService {
           },
           {
             name: "GitHub",
-            url: ""
+            url: "#"
           },
           {
             name: "Live Demo",
-            url: ""
+            url: "#"
           },
         ],
         tags: ["Swift", "UIKit", "ViewCode/Programmatic UI", "AVFoundations", "UserDefaults", "FaceID", "App Store"]
@@ -113,15 +113,15 @@ export class AppService {
         name: "Naturia",
         description: "naturia_description",
         relevance: 2,
-        imageUrl: "https://i.imgur.com/L1Sk4EC.png",
+        imageUrl: "https://i.imgur.com/jEaUGCw.png",
         urls: [
           {
             name: "GitHub",
-            url: ""
+            url: "#"
           },
           {
             name: "Live Demo",
-            url: ""
+            url: "#"
           },
         ],
         tags: ["Swift", "SwiftUI", "PencilKit", "iPad"]
@@ -131,7 +131,7 @@ export class AppService {
         name: "Bom pra Cachorro",
         description: "bompracachorro_description",
         relevance: 1,
-        imageUrl: "https://i.imgur.com/L1Sk4EC.png",
+        imageUrl: "https://i.imgur.com/OwlcDEd.png",
         urls: [
           {
             name: "App Store",
@@ -139,29 +139,29 @@ export class AppService {
           },
           {
             name: "GitHub",
-            url: ""
+            url: "#"
           },
           {
             name: "Live Demo",
-            url: ""
+            url: "#"
           },
         ],
-        tags: ["Swift", "UIKit", "ViewCode/Programmatic UI", "UserDefaults", "App Store", "Unit Tests"]
+        tags: ["Swift", "UIKit", "ViewCode/Programmatic UI", "UserDefaults", "App Store", "Unit Tests, Solo Project"]
       },
       //gera
       {
         name: "Gera",
         description: "gera_description",
         relevance: 2,
-        imageUrl: "https://i.imgur.com/L1Sk4EC.png",
+        imageUrl: "https://i.imgur.com/6cHqyED.png",
         urls: [
           {
             name: "GitHub",
-            url: ""
+            url: "#"
           },
           {
             name: "Live Demo",
-            url: ""
+            url: "#"
           },
         ],
         tags: ["Swift", "SwiftUI", "AVFoundations", "Multiplayer", "Device Communication"]
